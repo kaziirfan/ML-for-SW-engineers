@@ -147,6 +147,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
 - [ ] [How to Become a Machine Learning Engineer?](https://www.scaler.com/blog/how-to-become-a-machine-learning-engineer/)
+- [ ] [What Does a Machine Learning Engineer Do?: A Complete Overview](https://www.appliedaicourse.com/blog/machine-learning-engineer/)
 - ~~[] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)~~[removed]
 
 ## Machine learning mastery
