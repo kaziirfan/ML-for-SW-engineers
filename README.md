@@ -29,7 +29,7 @@ Please, feel free to make any contributions you feel will make it better.
 
 ---
 
-## Table of Contents
+## index
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
